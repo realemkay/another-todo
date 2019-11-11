@@ -17,8 +17,7 @@ loop = True
 while(loop):
     print("1. Notiz erstellen\n2. Notiz anschauen\n3. Notiz löschen\n4. Programm beenden")
     if(notiz_input() == "4"):
-        #exit()
-        print("\ntest test\n")
+        exit()
     print("noch geht 3twas nicht...")
     
 
