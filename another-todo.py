@@ -3,6 +3,7 @@ def notiz_input():
 
 
 def close():
+    global loop
     loop = False
 #apparently not working yet
 
